@@ -7,6 +7,8 @@ I'm Harshit, a self-taught Business Analyst from India :india:.
 * Tools: MS Excel, SQL, Power BI
 * Skills: Data Cleaning, Data Analysis, Data Visualization.
 
+### 📝 Projects: <a href="https://github.com/harshitgahlaut?tab=repositories">Click here</a>
+
  ### 🌱 Currently  
  
  * Learning Python
