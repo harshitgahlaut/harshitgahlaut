@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Harshit, a self-taught Business Analyst from India :india:.
+I'm Harshit, a self-taught Data Analyst from India :india:.
 
 ### :rocket: Core Competencies
 
-* Tools: MS Excel, SQL, Power BI
+* Tools: MS Excel, SQL, Power BI, Python
 * Skills: Data Cleaning, Data Analysis, Data Visualization.
 
 ### 📝 Projects: <a href="https://github.com/harshitgahlaut?tab=repositories">Click here</a>
