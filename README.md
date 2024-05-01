@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **harshitg2903@gmail.com**
 
-- 📝 [Projects]()
+- 📝 [Projects](https://github.com/harshitgahlaut?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
