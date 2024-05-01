@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **harshitg2903@gmail.com**
 
+- 📝 [Projects]()
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshitt-gahlaut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitt-gahlaut" height="30" width="40" /></a>
